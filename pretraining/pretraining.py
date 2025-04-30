@@ -95,7 +95,7 @@ if __name__ == '__main__':
     # selecting the training subject
     for group_n in range(5):
         data_list1,data_list2,data_list3 = [],[],[]
-        total_subject_list = list(range(1,10))
+        total_subject_list = list(range(1,36))
         test_subject_list = list(range(group_n*7+1,(group_n+1)*7+1))
         train_subject_list = [subject_n for subject_n in total_subject_list if subject_n not in test_subject_list]
         for sub_selelct in train_subject_list:#sub_list:
