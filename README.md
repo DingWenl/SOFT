@@ -2,7 +2,7 @@
 Reducing Calibration Efforts of SSVEP-BCIs by Shallow Fine-Tuning-Based Transfer Learning
 
 # Description
-1. Here are the codes of the SOFT in the paper ["Reducing Calibration Efforts of SSVEP-BCIs by Shallow Fine-Tuning-Based Transfer Learning“]().
+1. Here are the codes of the SOFT in the paper ["Reducing Calibration Efforts of SSVEP-BCIs by Shallow Fine-Tuning-Based Transfer Learning“](https://link.springer.com/article/10.1007/s11571-025-10264-8).
 2. The core code for SOFT can be found in the `finetuning.py` file.
 
 ## The related version information
